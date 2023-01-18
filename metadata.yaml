@@ -1,0 +1,26 @@
+_repo: A-synopsis-of-the-palms-of-Puerto-Rico_69783
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cook, O. F.
+    gutenberg_agent_id: '55423'
+    url: http://www.gutenberg.org/2009/agents/55423
+description: ''
+gutenberg_issued: '2023-01-13'
+identifiers:
+  gutenberg: '69783'
+language: en
+pgterms:marc904: https://archive.org/details/synopsisofpalmso00cook
+pgterms:marc905: 20220328145843cook
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Torrey Botanical Club,1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A synopsis of the palms of Puerto Rico
+url: http://www.gutenberg.org/ebooks/69783
