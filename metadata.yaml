@@ -1,11 +1,16 @@
 _repo: A-synopsis-of-the-palms-of-Puerto-Rico_69783
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69783-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, O. F.
     gutenberg_agent_id: '55423'
     url: http://www.gutenberg.org/2009/agents/55423
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69783#A-synopsis-of-the-palms-of-Puerto-Rico
 gutenberg_issued: '2023-01-13'
 identifiers:
   gutenberg: '69783'
